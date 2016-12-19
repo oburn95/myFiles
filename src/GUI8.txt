@@ -1,0 +1,102 @@
+  private JTextArea output;
+ 25     private JButton pointButton,
+ 26                     lineButton,
+ 27                     wordButton,
+ 28                     quoteButton,
+ 29                     colorButton,
+ 30                     clearButton;
+ 31     private JTextField input;
+ 32     
+ 33     public KFrame8(String title) {
+ 34         super(title);
+ 35         setSize(500, 600);
+ 36         setDefaultCloseOperation(EXIT_ON_CLOSE);
+ 37         addComponents(getContentPane());
+ 38         addListeners();
+ 39         setVisible(true);
+ 40     }
+ 41     
+ 42     private void addComponents(Container container) {
+ 43         // Components for the northern region
+ 44         pointButton = new JButton("Point");
+ 45         lineButton = new JButton("Line");
+ 46         wordButton = new JButton("Word");
+ 47         quoteButton = new JButton("Quote");
+ 48         colorButton = new JButton("Color");
+ 49         clearButton = new JButton("Clear");
+ 50         JPanel controlPanel = new JPanel();
+ 51         controlPanel.setLayout(new FlowLayout());
+ 52         controlPanel.add(pointButton);
+ 53         controlPanel.add(lineButton);
+ 54         controlPanel.add(wordButton);
+ 55         controlPanel.add(quoteButton);
+ 56         controlPanel.add(colorButton);
+ 57         controlPanel.add(clearButton);
+ 58         
+ 59         // Components for the center region
+ 60         output = new JTextArea();
+ 61         output.setEditable(false);
+ 62         output.setLineWrap(true);
+ 63         output.setWrapStyleWord(true);
+ 64         
+ 65         // Components for the southern region
+ 66         input = new JTextField();
+ 67         
+ 68         // Establish the regions
+ 69         container.setLayout(new BorderLayout());
+ 70         container.add(controlPanel, BorderLayout.NORTH);
+ 71         container.add(output, BorderLayout.CENTER);
+ 72         container.add(input, BorderLayout.SOUTH);
+ 73     }
+ 74     
+ 75     private void addListeners() {
+ 76         pointButton.addActionListener(this);
+ 77         lineButton.addActionListener(this);
+ 78         wordButton.addActionListener(this);
+ 79         quoteButton.addActionListener(this);
+ 80         colorButton.addActionListener(this);
+ 81         clearButton.addActionListener(this);
+ 82         input.addActionListener(this);
+ 83     }
+ 84     
+ 85     @Override public void actionPerformed(ActionEvent evt) {
+ 86         if (evt.getSource() instanceof JTextField) {
+ 87             input.setText("");
+ 88         }
+ 89         
+ 90         switch (evt.getActionCommand().toLowerCase()) {
+ 91             case "point":
+ 92                 Point p = Random.point(500, 600);
+ 93                 appendLine(String.format("(%d,%d)", p.x, p.y));
+ 94                 break;
+ 95             case "line":
+ 96                 p = Random.point(500, 600);
+ 97                 int length = Random.number(600);
+ 98                 int angle = Random.number(360);
+ 99                 appendLine(String.format("(%d,%d) %d %d", p.x, p.y,
+100                         length, angle));
+101                 break;
+102             case "word":
+103                 appendLine(Words.randomWord().toString());
+104                 break;
+105             case "quote":
+106                 appendLine(Quotes.randomQuote().toString());
+107                 break;
+108             case "color":
+109                 output.setBackground(Random.color());
+110                 break;
+111             case "clear":
+112                 output.setText("");
+113                 break;
+114         }
+115     }
+116     
+117     /**
+118      * Appends the text given to the output JTextArea followed by a new line.
+119      * @param s String to output
+120      */
+121     private void appendLine(String s) {
+122         output.append(s + "\n");
+123     }
+124 }
+125 
