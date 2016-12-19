@@ -1,0 +1,4 @@
+run:
+Sentence? I realllllly love Christmas
+longest word: realllllly
+BUILD SUCCESSFUL (total time: 18 seconds)
