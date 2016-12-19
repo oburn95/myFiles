@@ -1,0 +1,51 @@
+the songs ... 
+Hell aint a bad place to be
+New level
+Halftime
+24
+Shelter from the Strom
+Yesterday
+One
+Don't think twice, it's alright
+
+the actors ... 
+Tupac Shakur
+Arnold Schwarzenegger
+Ed Harris
+Ned Beaty
+James Kahn
+Brad Pitt
+Burt Reynolds
+Winona Ryder
+
+the triangles ... 
+<Triangle with A=10.0 B=10.0 C=10.0>
+<Triangle with A=3.0 B=4.0 C=5.0>
+
+The song title lengths ...
+27
+9
+8
+2
+22
+9
+3
+31
+...
+
+The initials ...
+TS
+AS
+EH
+NB
+JK
+BP
+BR
+WR
+...
+
+The areas ...
+43.30127018922193
+6.0
+...
+BUILD SUCCESSFUL (total time: 0 seconds)

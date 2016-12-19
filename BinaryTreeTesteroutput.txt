@@ -1,0 +1,113 @@
+run:
+Test LR ...
+>>> creating empty tree. 
+>>> adding elements to the tree directionally
+>>> PREORDER
+[lion:---]
+[elephant:---]
+[alligator:---]
+[ardvaark:---]
+[bear:---]
+[giraffe:---]
+[shark:---]
+[zebra:---]
+[tiger:---]
+[snake:---]
+>>> INORDER
+[alligator:---]
+[ardvaark:---]
+[bear:---]
+[elephant:---]
+[giraffe:---]
+[lion:---]
+[shark:---]
+[snake:---]
+[tiger:---]
+[zebra:---]
+>>> POSTORDER
+[elephant:---]
+[alligator:---]
+[ardvaark:---]
+[bear:---]
+[giraffe:---]
+[shark:---]
+[zebra:---]
+[tiger:---]
+[snake:---]
+[lion:---]
+>>> HEIGHT = 5
+Test BST ...
+>>> Creating empty tree. 
+>>> Adding elements to the empty binary tree ...
+>>> PREORDER
+[lion:---]
+[elephant:---]
+[alligator:---]
+[ardvaark:---]
+[bear:---]
+[giraffe:---]
+[shark:---]
+[zebra:---]
+[tiger:---]
+[snake:---]
+>>> INORDER
+[alligator:---]
+[ardvaark:---]
+[bear:---]
+[elephant:---]
+[giraffe:---]
+[lion:---]
+[shark:---]
+[snake:---]
+[tiger:---]
+[zebra:---]
+>>> POSTORDER
+[elephant:---]
+[alligator:---]
+[ardvaark:---]
+[bear:---]
+[giraffe:---]
+[shark:---]
+[zebra:---]
+[tiger:---]
+[snake:---]
+[lion:---]
+>>> HEIGHT = 5
+Test ND...
+>>> Creating empty tree. 
+>>> Adding elements to the tree nondeterministaclly ...
+>>> PREORDER
+[lion:---]
+[shark:---]
+[elephant:---]
+[ardvaark:---]
+[zebra:---]
+[alligator:---]
+[tiger:---]
+[bear:---]
+[giraffe:---]
+[snake:---]
+>>> INORDER
+[ardvaark:---]
+[elephant:---]
+[shark:---]
+[zebra:---]
+[alligator:---]
+[lion:---]
+[bear:---]
+[tiger:---]
+[snake:---]
+[giraffe:---]
+>>> POSTORDER
+[shark:---]
+[elephant:---]
+[ardvaark:---]
+[zebra:---]
+[alligator:---]
+[tiger:---]
+[bear:---]
+[giraffe:---]
+[snake:---]
+[lion:---]
+>>> HEIGHT = 4
+BUILD SUCCESSFUL (total time: 0 seconds)
