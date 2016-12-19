@@ -1,0 +1,154 @@
+run:
+homedir = C:\Users\Sean
+Initial Order of the Words: 
+everything went from bad to worse money never changed a thing 
+death kept followin trackin us down at least i heard 
+your bluebird sing now somebodys got to show their hand 
+time is an enemy i know youre long gone i 
+guess it must be up to me if id thought 
+about it i never wouldve done it i guess i 
+wouldve let it slide if id lived my life by 
+what others were thinkin the heart inside me wouldve died 
+i was just too stubborn to ever be governed by 
+enforced insanity someone had to reach for the risin star 
+i guess it was up to me oh the union 
+central is pullin out and the orchids are in bloom 
+ive only got me one good shirt left and it 
+smells of stale perfume in fourteen months ive only smiled 
+once and i didnt do it consciously somebodys got to 
+find your trail i guess it must be up to 
+me it was like a revelation when you betrayed me 
+with your touch id just about convinced myself that nothin 
+had changed that much the old rounder in the iron 
+mask slipped me the master key somebody had to unlock 
+your heart he said it was up to me well 
+i watched you slowly disappear down into the officers club 
+i wouldve followed you in the door but i didnt 
+have a ticket stub so i waited all night til 
+the break of day hopinone of us could get free 
+when the dawn came over the river bridge i knew 
+it was up to me oh the only decent thing 
+i did when i worked as a postal clerk was 
+to haul your picture down off the wall near the 
+cage where i used to work was i a fool 
+or not to try to protect your identity you looked 
+a little burned out my friend i thought it might 
+be up to me well i met somebody face to 
+face and i had to remove my hat shes everything 
+i need and love but i cant be swayed by 
+that it frightens me the awful truth of how sweet 
+life can be but she aint a gonna make me 
+move i guess it must be up to me we 
+heard the sermon on the mount and i knew it 
+was too complex it didnt amount to anything more than 
+what the broken glass reflects when you bite off more 
+than y 
+
+Pass 1 queues:
+[my, by, by, try, my, my, by, y] 
+[went, from, bad, to, a, thing, kept, us, down, at, i, sing, now, got, to, show, hand, is, an, i, know, long, i, it, must, be, up, to, me, if, id, it, i, it, i, i, let, it, if, id, what, the, me, i, was, just, to, be, had, to, for, the, star, i, it, was, up, to, me, oh, the, is, and, the, in, only, got, me, shirt, left, and, it, smells, of, in, months, only, and, i, didnt, do, it, got, to, find, i, it, must, be, up, to, me, it, was, a, when, me, with, id, just, myself, that, had, that, much, the, old, in, the, mask, me, the, key, had, to, he, it, was, up, to, me, well, i, slowly, down, the, club, i, in, the, but, i, didnt, a, stub, so, i, all, night, til, the, of, day, of, us, get, when, the, dawn, the, i, knew, it, was, up, to, me, oh, the, only, thing, i, did, when, i, as, a, clerk, was, to, down, off, the, wall, the, i, to, work, was, i, a, or, not, to, to, a, i, it, might, be, up, to, me, well, i, met, to, and, i, had, to, hat, shes, i, and, but, i, cant, be, that, it, me, the, truth, of, how, can, be, but, she, a, me, i, it, must, be, up, to, me, we, the, on, the, and, i, knew, it, was, it, didnt, to, than, what, the, glass, when, off, than] 
+[worse, money, never, changed, death, trackin, least, heard, your, their, time, enemy, gone, guess, thought, never, done, guess, slide, lived, life, others, were, thinkin, heart, died, too, stubborn, ever, reach, risin, guess, central, pullin, out, orchids, are, bloom, ive, one, good, stale, ive, smiled, once, your, trail, guess, like, you, your, touch, nothin, changed, iron, slipped, master, unlock, your, heart, said, watched, you, into, you, door, have, ticket, break, could, free, came, over, river, bridge, decent, worked, postal, haul, your, near, cage, where, used, fool, protect, your, you, little, burned, out, friend, thought, face, face, need, love, swayed, frightens, awful, sweet, life, aint, gonna, make, move, guess, heard, sermon, mount, too, complex, anything, more, broken, reflects, you, bite, more] 
+[everything, followin, bluebird, somebodys, youre, about, wouldve, wouldve, inside, wouldve, governed, enforced, insanity, union, perfume, somebodys, betrayed, about, convinced, rounder, somebody, officers, wouldve, followed, waited, picture, identity, looked, somebody, remove, everything, amount] 
+[someone, fourteen, consciously, disappear, hopinone] 
+[revelation] 
+
+Between Pass Order: 
+my by by try my my by y went from bad 
+to a thing kept us down at i sing now 
+got to show hand is an i know long i 
+it must be up to me if id it i 
+it i i let it if id what the me 
+i was just to be had to for the star 
+i it was up to me oh the is and 
+the in only got me shirt left and it smells 
+of in months only and i didnt do it got 
+to find i it must be up to me it 
+was a when me with id just myself that had 
+that much the old in the mask me the key 
+had to he it was up to me well i 
+slowly down the club i in the but i didnt 
+a stub so i all night til the of day 
+of us get when the dawn the i knew it 
+was up to me oh the only thing i did 
+when i as a clerk was to down off the 
+wall the i to work was i a or not 
+to to a i it might be up to me 
+well i met to and i had to hat shes 
+i and but i cant be that it me the 
+truth of how can be but she a me i 
+it must be up to me we the on the 
+and i knew it was it didnt to than what 
+the glass when off than worse money never changed death 
+trackin least heard your their time enemy gone guess thought 
+never done guess slide lived life others were thinkin heart 
+died too stubborn ever reach risin guess central pullin out 
+orchids are bloom ive one good stale ive smiled once 
+your trail guess like you your touch nothin changed iron 
+slipped master unlock your heart said watched you into you 
+door have ticket break could free came over river bridge 
+decent worked postal haul your near cage where used fool 
+protect your you little burned out friend thought face face 
+need love swayed frightens awful sweet life aint gonna make 
+move guess heard sermon mount too complex anything more broken 
+reflects you bite more everything followin bluebird somebodys youre about 
+wouldve wouldve inside wouldve governed enforced insanity union perfume somebodys 
+betrayed about convinced rounder somebody officers wouldve followed waited picture 
+identity looked somebody remove everything amount someone fourteen consciously disappear 
+hopinone revelation 
+
+Pass 2 queues:
+[y, a, i, i, i, i, i, i, i, i, i, i, a, i, i, i, a, i, i, i, i, a, i, i, a, a, i, i, i, i, i, a, i, i] 
+[my, by, by, my, my, by, to, us, at, to, is, an, it, be, up, to, me, if, id, it, it, it, if, id, me, to, be, to, it, up, to, me, oh, is, in, me, it, of, in, do, it, to, it, be, up, to, me, it, me, id, in, me, to, he, it, up, to, me, in, so, of, of, us, it, up, to, me, oh, as, to, to, or, to, to, it, be, up, to, me, to, to, be, it, me, of, be, me, it, be, up, to, me, we, on, it, it, to] 
+[try, bad, now, got, let, the, was, had, for, the, was, the, and, the, got, and, and, got, was, had, the, old, the, the, key, had, was, the, the, but, all, til, the, day, get, the, the, was, the, did, was, off, the, the, was, not, met, and, had, hat, and, but, the, how, can, but, she, the, the, and, was, the, off, too, out, are, ive, one, ive, you, you, you, you, out, too, you] 
+[went, from, kept, down, sing, show, hand, know, long, must, what, just, star, only, left, only, find, must, when, with, just, that, that, much, mask, well, down, club, stub, when, dawn, knew, only, when, down, wall, work, well, shes, cant, that, must, knew, than, what, when, than, your, time, gone, done, life, were, died, ever, good, once, your, like, your, iron, your, said, into, door, have, free, came, over, haul, your, near, cage, used, fool, your, face, face, need, love, life, aint, make, move, more, bite, more] 
+[thing, shirt, didnt, didnt, night, thing, clerk, might, truth, didnt, glass, worse, money, never, death, least, heard, their, enemy, guess, never, guess, slide, lived, heart, reach, risin, guess, bloom, stale, trail, guess, touch, heart, break, could, river, where, awful, sweet, gonna, guess, heard, mount, youre, about, union, about] 
+[smells, months, myself, slowly, others, pullin, smiled, nothin, master, unlock, ticket, bridge, decent, worked, postal, little, burned, friend, swayed, sermon, broken, inside, waited, looked, remove, amount] 
+[changed, trackin, thought, thinkin, central, orchids, changed, slipped, watched, protect, thought, complex, wouldve, wouldve, wouldve, perfume, rounder, wouldve, picture, someone] 
+[stubborn, anything, reflects, followin, bluebird, governed, enforced, insanity, betrayed, somebody, officers, followed, identity, somebody, fourteen, hopinone] 
+[frightens, somebodys, somebodys, convinced, disappear] 
+[everything, everything, revelation] 
+[consciously] 
+
+Final Order: 
+y a i i i i i i i i i 
+i a i i i a i i i i 
+a i i a a i i i i i 
+a i i my by by my my by to 
+us at to is an it be up to me 
+if id it it it if id me to be 
+to it up to me oh is in me it 
+of in do it to it be up to me 
+it me id in me to he it up to 
+me in so of of us it up to me 
+oh as to to or to to it be up 
+to me to to be it me of be me 
+it be up to me we on it it to 
+try bad now got let the was had for the 
+was the and the got and and got was had 
+the old the the key had was the the but 
+all til the day get the the was the did 
+was off the the was not met and had hat 
+and but the how can but she the the and 
+was the off too out are ive one ive you 
+you you you out too you went from kept down 
+sing show hand know long must what just star only 
+left only find must when with just that that much 
+mask well down club stub when dawn knew only when 
+down wall work well shes cant that must knew than 
+what when than your time gone done life were died 
+ever good once your like your iron your said into 
+door have free came over haul your near cage used 
+fool your face face need love life aint make move 
+more bite more thing shirt didnt didnt night thing clerk 
+might truth didnt glass worse money never death least heard 
+their enemy guess never guess slide lived heart reach risin 
+guess bloom stale trail guess touch heart break could river 
+where awful sweet gonna guess heard mount youre about union 
+about smells months myself slowly others pullin smiled nothin master 
+unlock ticket bridge decent worked postal little burned friend swayed 
+sermon broken inside waited looked remove amount changed trackin thought 
+thinkin central orchids changed slipped watched protect thought complex wouldve 
+wouldve wouldve perfume rounder wouldve picture someone stubborn anything reflects 
+followin bluebird governed enforced insanity betrayed somebody officers followed identity 
+somebody fourteen hopinone frightens somebodys somebodys convinced disappear everything everything 
+revelation consciously BUILD SUCCESSFUL (total time: 9 seconds)
